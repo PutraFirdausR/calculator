@@ -1,4 +1,4 @@
-# ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+# <div align="center"> <img src="[https://vuejs.org/images/logo.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)" alt="Javascript Logo" width="150">
 
 # Calculator
 
