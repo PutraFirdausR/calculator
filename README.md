@@ -34,4 +34,5 @@ Tidak perlu instalasi `npm` atau *server*. Cukup jalankan langkah berikut:
    cd calculator
    ```
 3. **Buka di Browser**
-Klik dua kali file index.html (atau gunakan ekstensi Live Server di VS Code).
+   
+   Klik dua kali file index.html (atau gunakan ekstensi Live Server di VS Code).
