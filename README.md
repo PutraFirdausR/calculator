@@ -4,35 +4,35 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-Sebuah aplikasi kalkulator interaktif yang berjalan langsung di *browser*. Proyek ini difokuskan pada manipulasi DOM dan logika algoritma matematika dasar menggunakan **Vanilla JavaScript** tanpa bantuan *library* eksternal.
+A running interactive calculator application directly in the browser. This project focuses on DOM manipulation and basic mathematical algorithm logic using vanilla JavaScript without the help of external libraries.
 
-## 🚀 Fitur
+## 🚀 Features
 
-- **Operasi Dasar:** Penjumlahan (+), Pengurangan (-), Perkalian (×), dan Pembagian (÷).
-- **Desain Intuitif:** Antarmuka menyerupai kalkulator fisik yang mudah digunakan (dukungan *hover* dan *active states* pada tombol).
-- **Handling Error:** Mencegah kesalahan umum seperti pembagian dengan angka nol atau input ganda pada operator.
+- **Basic Operations:** Addition (+), Subtraction (-), Multiplication (×), and Division (÷).
+- **Intuitive Design:** An easy-to-use, physical calculator-like interface (hover and active states support for buttons).
+- **Error Handling:** Prevents common errors such as division by zero or double-entering operators.
 
-## 📂 Struktur Proyek
+## 📂 Project Structure
 
-| File/Folder | Deskripsi |
+| Files/Folders | Description |
 | :--- | :--- |
-| `index.html` | Struktur kerangka tombol dan layar kalkulator. |
-| `style.css` | *Styling* untuk tata letak tombol (biasanya menggunakan CSS Grid) dan warna. |
-| `script.js` | Logika utama untuk menangkap input klik dan mengeksekusi perhitungan. |
+| `index.html` | The skeleton structure of the calculator's buttons and screen. |
+| `style.css` | Styling for button layout (usually using CSS Grid) and colors. |
+| `script.js` | The main logic is to capture click input and execute calculations. |
 
-## 💻 Cara Menjalankan (Local Setup)
+## 💻 How to Run (Local Setup)
 
-Tidak perlu instalasi `npm` atau *server*. Cukup jalankan langkah berikut:
+No npm or server installation required. Simply run the following steps:
 
-1. **Clone repositori**
-   ```bash
-   git clone [https://github.com/PutraFirdausR/calculator.git](https://github.com/PutraFirdausR/calculator.git)
-   ```
-2. **Navigasi ke direktori**
+1. **Clone repository**
+```bash
+git clone [https://github.com/PutraFirdausR/calculator.git](https://github.com/PutraFirdausR/calculator.git)
+```
+2. **Navigate to directory**
 
-   ```bash
-   cd calculator
-   ```
-3. **Buka di Browser**
-   
-   Klik dua kali file index.html (atau gunakan ekstensi Live Server di VS Code).
+```bash
+cd calculator
+```
+3. **Open in Browser**
+
+Double-click the index.html file (or use the Live Server extension in VS Code).
